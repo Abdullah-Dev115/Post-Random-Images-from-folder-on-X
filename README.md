@@ -9,4 +9,6 @@ first you will need to go https://developer.twitter.com/en/portal/dashboard to g
 
 here is how : https://abdullahalmohsen.com/Generate_X_API_Tokens.pdf
 
+🔴 : I am not responsible for any false or abusive use of the script!
+
 
